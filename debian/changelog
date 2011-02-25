@@ -1,0 +1,35 @@
+spectacle (0.22-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Fathi Boudra <fabo@debian.org>  Fri, 25 Feb 2011 09:47:50 +0200
+
+spectacle (0.21-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Fathi Boudra <fabo@debian.org>  Wed, 08 Dec 2010 11:22:51 +0200
+
+spectacle (0.20-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Fathi Boudra <fabo@debian.org>  Tue, 21 Sep 2010 12:07:26 +0300
+
+spectacle (0.19-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Fathi Boudra <fabo@debian.org>  Tue, 24 Aug 2010 11:36:43 +0300
+
+spectacle (0.18+git24+bc1c8ce-1) unstable; urgency=low
+
+  * New upstream snapshot.
+
+ -- Fathi Boudra <fabo@debian.org>  Sat, 14 Aug 2010 14:22:18 +0300
+
+spectacle (0.18+git19+4768025-1) unstable; urgency=low
+
+  * Initial release (Closes: #592311)
+
+ -- Fathi Boudra <fabo@debian.org>  Sun, 08 Aug 2010 20:01:42 +0300
