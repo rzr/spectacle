@@ -1,3 +1,13 @@
+spectacle (0.22-2) unstable; urgency=low
+
+  * QA upload.
+  * Maintainer field set to QA Group.
+  * Bump Standards-Version to 3.9.5.
+  * Set debhelper compatibility level to 9.
+  * Call dh(1) with python_support.
+
+ -- Emanuele Rocca <ema@debian.org>  Mon, 31 Mar 2014 12:16:34 +0200
+
 spectacle (0.22-1) unstable; urgency=low
 
   * New upstream release.

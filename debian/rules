@@ -4,7 +4,7 @@
 #export DH_VERBOSE=1
 
 %:
-	dh $@ --buildsystem=python_distutils
+	dh $@ --buildsystem=python_distutils --with=python_support
 
 override_dh_auto_build:
 	$(MAKE) doc
@@ -17,5 +17,5 @@ override_dh_auto_install:
 
 override_dh_auto_clean:
 	$(MAKE) clean
-	rm -f spectacle/__version__.py
+	rm -rf spectacle/__version__.py spectacle.egg-info
 	dh_auto_clean
