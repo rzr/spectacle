@@ -1,3 +1,12 @@
+spectacle (0.25-1) unstable; urgency=low
+
+  * New upstream release.
+  * debian: drop downstream patches
+  * debian: install README* to docs
+  * debian: Adopt package (Closes: #641955)
+
+ -- Philippe Coval <rzr@gna.org>  Sat, 10 May 2014 16:30:15 +0200
+
 spectacle (0.22-2) unstable; urgency=low
 
   * QA upload.
