@@ -4,7 +4,7 @@
 #export DH_VERBOSE=1
 
 %:
-	dh $@ --buildsystem=python_distutils --with=python_support
+	dh $@ --buildsystem=python_distutils --with=python2
 
 override_dh_auto_build:
 	$(MAKE) doc
