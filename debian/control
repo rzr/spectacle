@@ -2,8 +2,11 @@ Source: spectacle
 Section: devel
 Priority: optional
 Maintainer: Philippe Coval <rzr@gna.org>
-Build-Depends: debhelper (>= 9), python (>= 2.3.5-7),
- python-support (>= 0.90.0), python-cheetah, markdown
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: python (>= 2.3.5-7),
+ dh-python,
+ python-cheetah, markdown
+X-Python-Version: >= 2.3
 Standards-Version: 3.9.5
 Homepage: http://meego.gitorious.org/meego-developer-tools/spectacle
 
